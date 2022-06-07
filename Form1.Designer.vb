@@ -58,21 +58,13 @@ Partial Class Form1
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
-        Me.Label7 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
-        Me.Label9 = New System.Windows.Forms.Label()
         Me.Label10 = New System.Windows.Forms.Label()
-        Me.Label11 = New System.Windows.Forms.Label()
         Me.Label12 = New System.Windows.Forms.Label()
-        Me.Label13 = New System.Windows.Forms.Label()
         Me.Label14 = New System.Windows.Forms.Label()
         Me.Label15 = New System.Windows.Forms.Label()
-        Me.Label16 = New System.Windows.Forms.Label()
-        Me.Label17 = New System.Windows.Forms.Label()
         Me.Label18 = New System.Windows.Forms.Label()
-        Me.Label19 = New System.Windows.Forms.Label()
         Me.Label20 = New System.Windows.Forms.Label()
         Me.Btn = New System.Windows.Forms.Button()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
@@ -402,15 +394,6 @@ Partial Class Form1
         Me.Label4.TabIndex = 35
         Me.Label4.Text = "4"
         '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(12, 113)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(19, 20)
-        Me.Label5.TabIndex = 36
-        Me.Label5.Text = "A"
-        '
         'Label6
         '
         Me.Label6.AutoSize = True
@@ -419,15 +402,6 @@ Partial Class Form1
         Me.Label6.Size = New System.Drawing.Size(19, 20)
         Me.Label6.TabIndex = 37
         Me.Label6.Text = "A"
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(13, 200)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(18, 20)
-        Me.Label7.TabIndex = 38
-        Me.Label7.Text = "B"
         '
         'Label8
         '
@@ -438,15 +412,6 @@ Partial Class Form1
         Me.Label8.TabIndex = 39
         Me.Label8.Text = "B"
         '
-        'Label9
-        '
-        Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(13, 276)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(18, 20)
-        Me.Label9.TabIndex = 40
-        Me.Label9.Text = "C"
-        '
         'Label10
         '
         Me.Label10.AutoSize = True
@@ -456,15 +421,6 @@ Partial Class Form1
         Me.Label10.TabIndex = 41
         Me.Label10.Text = "C"
         '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.Location = New System.Drawing.Point(13, 362)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(20, 20)
-        Me.Label11.TabIndex = 42
-        Me.Label11.Text = "D"
-        '
         'Label12
         '
         Me.Label12.AutoSize = True
@@ -473,15 +429,6 @@ Partial Class Form1
         Me.Label12.Size = New System.Drawing.Size(20, 20)
         Me.Label12.TabIndex = 43
         Me.Label12.Text = "D"
-        '
-        'Label13
-        '
-        Me.Label13.AutoSize = True
-        Me.Label13.Location = New System.Drawing.Point(16, 445)
-        Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(17, 20)
-        Me.Label13.TabIndex = 44
-        Me.Label13.Text = "E"
         '
         'Label14
         '
@@ -501,24 +448,6 @@ Partial Class Form1
         Me.Label15.TabIndex = 46
         Me.Label15.Text = "F"
         '
-        'Label16
-        '
-        Me.Label16.AutoSize = True
-        Me.Label16.Location = New System.Drawing.Point(17, 528)
-        Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(16, 20)
-        Me.Label16.TabIndex = 47
-        Me.Label16.Text = "F"
-        '
-        'Label17
-        '
-        Me.Label17.AutoSize = True
-        Me.Label17.Location = New System.Drawing.Point(16, 606)
-        Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(19, 20)
-        Me.Label17.TabIndex = 48
-        Me.Label17.Text = "G"
-        '
         'Label18
         '
         Me.Label18.AutoSize = True
@@ -527,15 +456,6 @@ Partial Class Form1
         Me.Label18.Size = New System.Drawing.Size(19, 20)
         Me.Label18.TabIndex = 49
         Me.Label18.Text = "G"
-        '
-        'Label19
-        '
-        Me.Label19.AutoSize = True
-        Me.Label19.Location = New System.Drawing.Point(16, 688)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(20, 20)
-        Me.Label19.TabIndex = 50
-        Me.Label19.Text = "H"
         '
         'Label20
         '
@@ -570,21 +490,13 @@ Partial Class Form1
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Btn)
         Me.Controls.Add(Me.Label20)
-        Me.Controls.Add(Me.Label19)
         Me.Controls.Add(Me.Label18)
-        Me.Controls.Add(Me.Label17)
-        Me.Controls.Add(Me.Label16)
         Me.Controls.Add(Me.Label15)
         Me.Controls.Add(Me.Label14)
-        Me.Controls.Add(Me.Label13)
         Me.Controls.Add(Me.Label12)
-        Me.Controls.Add(Me.Label11)
         Me.Controls.Add(Me.Label10)
-        Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.Label8)
-        Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.Label6)
-        Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
@@ -696,21 +608,13 @@ Partial Class Form1
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
     Friend WithEvents Label4 As Label
-    Friend WithEvents Label5 As Label
     Friend WithEvents Label6 As Label
-    Friend WithEvents Label7 As Label
     Friend WithEvents Label8 As Label
-    Friend WithEvents Label9 As Label
     Friend WithEvents Label10 As Label
-    Friend WithEvents Label11 As Label
     Friend WithEvents Label12 As Label
-    Friend WithEvents Label13 As Label
     Friend WithEvents Label14 As Label
     Friend WithEvents Label15 As Label
-    Friend WithEvents Label16 As Label
-    Friend WithEvents Label17 As Label
     Friend WithEvents Label18 As Label
-    Friend WithEvents Label19 As Label
     Friend WithEvents Label20 As Label
     Friend WithEvents Btn As Button
     Friend WithEvents TextBox1 As TextBox
